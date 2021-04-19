@@ -6,6 +6,8 @@ The purpose is to create a temperature converter from Celsius to Fahrenheit and 
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Issues](#issues)
+* [Image Test](#image-test)
+* [Code Snippet Test](#code-snippet-test)
 
 ## General Info
 The overall objective was to create a way to convert temperature between Fahrenheit and Celsius. It was to practice using callback functions and other DOM elements to implement form to retrieve and utilize user input.
