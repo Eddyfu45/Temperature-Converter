@@ -26,3 +26,28 @@ To run this project:
 
 ## Issues
 I had some problems writing the syntax to call the data from user input and use it in the functions properly so I'm just doing this on the solution code that was provided in class for now until I fix it later.
+
+# Image Test
+// puts the image
+![test](test.png)
+
+# Code Snippet Test
+// puts a code snippet
+
+```
+function colorizeDisplay(temp, units) {
+  const display = document.querySelector('#display-result')
+
+  if (units === 'c-to-f') {
+    if (temp > 212) {
+      display.style.background = 'red'
+      display.style.color = 'white'
+    } else if (temp < 32) {
+      display.style.background = 'blue'
+      display.style.color = 'white'
+    } else {
+      display.style.background = ''
+      display.style.color = ''
+    }
+  }
+  ```
